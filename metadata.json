@@ -1,0 +1,5 @@
+﻿{
+  "name": "Gemini Food Delivery",
+  "description": "A food delivery application that uses Gemini to generate restaurant and menu data, and helps process orders. Users can browse restaurants, add items to their cart, and checkout.",
+  "requestFramePermissions": []
+}
